@@ -1,6 +1,8 @@
-# AIProCon
-2019 AI 开发者大会
+# AIProCon 2019 AI 开发者大会
 
+大会官网：AI 开发者大会 : https://aiprocon.csdn.net/
+
+图文直播记录 https://v.alltuu.com/album/1021732546/?from=groupmessage
 
 
 ## pr 规范
