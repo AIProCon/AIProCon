@@ -11,6 +11,6 @@
 
 ## 其他贡献渠道
 
-email: kevin@kylin.app
-qq:993056011
-微信: vvvgjm
+- email: kevin@kylin.app
+- qq:993056011
+- 微信: vvvgjm
