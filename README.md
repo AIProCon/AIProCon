@@ -2,6 +2,9 @@
 
 汇总整个 2019AIProCon 开发者大会的资料
 
+因图片,录屏等附件太大 存入我的百度网盘中 
+链接:https://pan.baidu.com/s/1LkEWgMMLQ_1aKBhn7R7FDA  密码:b0hu
+
 ---
 
 大会官网：AI 开发者大会 : https://aiprocon.csdn.net/
@@ -19,9 +22,6 @@
 
 - Email: xuay@csdn.net 注: 发送时请注明AIProCon大会记录, 以及在邮件中简单说一下是那一天,大概包含那个主题
 
-
-因图片,录屏等附件太大 存入我的百度网盘中 
-链接:https://pan.baidu.com/s/1LkEWgMMLQ_1aKBhn7R7FDA  密码:b0hu
 
 ## 协议声明
 
