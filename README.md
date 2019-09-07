@@ -29,4 +29,4 @@
 
 
 # 友情链接
-- [深度学习训练师 https://github.com/zhanghuocheng/tool/blob/master/总结/深度学习训练师.md](https://github.com/zhanghuocheng/tool/blob/master/总结/深度学习训练师.md)
+- [https://github.com/zhanghuocheng/tool/blob/master/总结/深度学习训练师.md](https://github.com/zhanghuocheng/tool/blob/master/总结/深度学习训练师.md)
