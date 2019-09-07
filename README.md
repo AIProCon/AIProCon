@@ -1,6 +1,6 @@
 # AIProCon 2019 AI 开发者大会
 
-汇总整个 2019AIProCon 开发者大会的资料
+汇总整个 2019AIProCon 开发者大会的资料记录, 参会者的感悟,照片,录屏录像等.
 
 因图片,录屏等附件太大 存入我的百度网盘中 
 链接:https://pan.baidu.com/s/1LkEWgMMLQ_1aKBhn7R7FDA  密码:b0hu
@@ -26,3 +26,7 @@
 ## 协议声明
 
 声明: 该视频\等资料仅供学习，禁止商用,如有侵权CSDN有权追究其法律责任
+
+
+# 友情链接
+- [深度学习训练师] https://github.com/zhanghuocheng/tool/blob/master/%E6%80%BB%E7%BB%93/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E8%AE%AD%E7%BB%83%E5%B8%88.md
