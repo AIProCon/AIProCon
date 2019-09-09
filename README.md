@@ -29,4 +29,5 @@
 
 
 # 友情链接
+- [AIProCon-PPT (非官方) ](https://tdou.cc/cn/AIProCon-PPT/)
 - [https://github.com/zhanghuocheng/tool/blob/master/总结/深度学习训练师.md](https://github.com/zhanghuocheng/tool/blob/master/总结/深度学习训练师.md)
