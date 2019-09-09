@@ -124,9 +124,12 @@
 - [《5G时代的物联网期待重生》](https://download.csdn.net/meeting/speech_preview/763)
 	> 孙松林 北京邮电大学教授、博士生导师 
 	- [官方PPT下载链接](https://meet-download.csdn.net/speech/speech_upload_file/2019/09/07/3f3a27b8b9cd57519c5054a701513ceb.pdf)
-	- [Github-PPT](https://github.com/AIProCon/AIProCon/5G驱动AIoT技术论坛/《5G时代的物联网期待重生》.pdf)
+	- [Github-PPT](https://github.com/AIProCon/AIProCon/tree/master/PPT/5G驱动AIoT技术论坛/《5G时代的物联网期待重生》.pdf)
 
 
-原文链接: https://tdou.cc/cn/AIProCon-PPT/
 
+--- 
+
+版权声明：本文为博主原创文章，遵循 [CC 4.0 BY-SA](http://creativecommons.org/licenses/by-sa/4.0/) 版权协议，转载请附上原文出处链接和本声明。
+本文链接：https://tdou.cc/cn/AIProCon-PPT/
 特殊说明: 如文字内容有错、官方更新PPT、百度网盘链接失效等情况可联系 kevin@kylin.app修正或 [Github](https://github.com/AIProCon/AIProCon/tree/master/PPT/README.md) 修正 or PR
