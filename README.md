@@ -31,3 +31,28 @@
 # 友情链接
 - [AIProCon-PPT (非官方) ](https://tdou.cc/cn/AIProCon-PPT/)
 - [https://github.com/zhanghuocheng/tool/blob/master/总结/深度学习训练师.md](https://github.com/zhanghuocheng/tool/blob/master/总结/深度学习训练师.md)
+
+
+
+AIProCon开发者大会官网: https://aiprocon.csdn.net/
+官网PPT: https://download.csdn.net/meeting/meeting_detail/50
+
+https://tdou.cc/cn/AIProCon-PPT/  AIProCon ppt 更新说明 [百度网盘,Github]同步存储pdf版ppt [官网获取]
+
+- 2019.9.18:
+	- add 李沐 深度学习培训训练营课件
+
+- 2019.9.12: [完全同步官网]
+	- add 知识图谱论坛/《基于KG的认知智能中台思考及产业化实践》王昊奋.pdf
+	- add 机器学习论坛/《如何构建面向大型制造业的一站式AI工作平台》任如意&廖国龙.pdf
+	- add 机器学习论坛/《第三代AI思考与实践》RealAI.pdf
+	- add 机器学习论坛/《滴滴机器学习平台k8s落地与实践》唐博.pdf
+	- add 机器学习论坛/《3D机器人视觉在工业自动化和仓储物流领域的应用》王灿.pdf
+	- add AI开源技术论坛/《Euler：超大规模图深度学习开源框架》林伟.pdf
+	- add AI开源技术论坛/《使用 DGL 训练大规模图神经网络》马超.pdf
+	- add 5G驱动AIoT技术论坛/《5G时代的爱（AI）如何在物联中轰轰烈烈》张朝辉.pdf
+	- add 5G驱动AIoT技术论坛/《5G 驱动 AIoT 多模态智能技术与应用》梁家恩.pdf
+
+- 2019.9.10: [未完全同步官网]
+	- 新增 知识图谱论坛 -《生活服务领域知识图谱的构建及应用》张富峥
+	- 新增 计算机视觉论坛 -《互联网视频基础技术探索及其应用》文石磊
