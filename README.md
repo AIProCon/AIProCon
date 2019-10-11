@@ -37,7 +37,7 @@
 AIProCon开发者大会官网: https://aiprocon.csdn.net/
 官网PPT: https://download.csdn.net/meeting/meeting_detail/50
 
-https://tdou.cc/cn/AIProCon-PPT/  AIProCon ppt 更新说明 [百度网盘,Github]同步存储pdf版ppt [官网获取]
+https://tdou.cc/cn/AIProCon-PPT.html  AIProCon ppt 更新说明 [百度网盘,Github]同步存储pdf版ppt [官网获取]
 
 - 2019.9.18:
 	- add 李沐 深度学习培训训练营课件
