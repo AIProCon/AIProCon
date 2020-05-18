@@ -3,7 +3,7 @@
 汇总整个 2019AIProCon 开发者大会的资料记录, 参会者的感悟,照片,录屏录像等.
 
 因图片,录屏等附件太大 存入我的百度网盘中 
-链接:https://pan.baidu.com/s/1LkEWgMMLQ_1aKBhn7R7FDA  密码:b0hu
+链接:https://pan.baidu.com/s/1yUElHvgtleK9GVN6Pqsibw  密码:l575
 
 ---
 
